@@ -1,0 +1,4 @@
+# SwiftyLib
+
+
+The licence file.
